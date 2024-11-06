@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="left">0</string>
+    <string name="right">0</string>
+    <string name="press_me">press_me</string>
+    <string name="press_me_too">press_me_too</string>
+    <string name="zero">0</string>
+</resources>
